@@ -46,14 +46,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "Topics"
     pre = "<i class='fa fa-folder fa-fw'></i>"
     weight = 4
-    identifier = "topic"
+    identifier = "topics"
     url = "/topic/"
   [[menu.main]]
     name = "Tags"
     pre = "<i class='fa fa-tags fa-fw'></i>"
     weight = 5
     identifier = "tag"
-    url = "/tag/"
+    url = "/tags/"
 
 [social]
   # Link your social networking accouns to the side menu
