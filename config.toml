@@ -46,8 +46,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "Topics"
     pre = "<i class='fa fa-folder fa-fw'></i>"
     weight = 4
-    identifier = "topics"
-    url = "/topic/"
+    identifier = "topic"
+    url = "/topics/"
   [[menu.main]]
     name = "Tags"
     pre = "<i class='fa fa-tags fa-fw'></i>"
